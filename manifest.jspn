@@ -1,0 +1,11 @@
+{
+  "id": "your-plugin-id",
+  "name": "Your Plugin Name",
+  "version": "0.1.0",
+  "description": "A brief description of your plugin",
+  "author": "Your Name",
+  "authorUrl": "https://github.com/your-github-username",
+  "minAppVersion": "0.9.7",
+  "main": "main.ts",
+  "jsdelivr": "https://cdn.jsdelivr.net/gh/your-github-username/your-repo@1.0.0"
+}
