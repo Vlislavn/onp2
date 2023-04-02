@@ -1,10 +1,10 @@
 {
-  "id": "obsidian-to-notion",
-  "name": "Obsidian shared to Notion",
+  "id": "obsidian-to-notion123",
+  "name": "Obsidian shared1 to Notion",
   "version": "0.7.6",
   "minAppVersion": "0.0.1",
   "description": "This is a  plugin for Obsidian. This plugin share obsidian md  file to notion with notion api",
-  "author": "Easychris",
+  "author": "ne",
   "authorUrl": "https://github.com/EasyChris/obsidian-to-notion",
   "isDesktopOnly": false
 }
